@@ -42,7 +42,7 @@ header {
     background-size: cover, cover;
     background-position: center, center;
     color: white;
-    padding: 80px 20px;
+    padding: 60px 20px;
     text-align: center;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     position: relative;
@@ -129,7 +129,7 @@ header .tagline {
 /* Hero Section */
 .hero {
     background: linear-gradient(to bottom, var(--bg-light), var(--bg-white));
-    padding: 80px 20px;
+    padding: 50px 20px;
     text-align: center;
 }
 
@@ -143,7 +143,7 @@ header .tagline {
 .hero-text {
     font-size: 1.4rem;
     color: var(--text-light);
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     font-weight: 300;
 }
 
@@ -152,7 +152,7 @@ header .tagline {
     justify-content: center;
     gap: 40px;
     flex-wrap: wrap;
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 .feature {
@@ -193,21 +193,21 @@ header .tagline {
 
 /* About Section */
 .about {
-    padding: 80px 20px;
+    padding: 50px 20px;
     background: var(--bg-white);
 }
 
 .about h2 {
     font-size: 2.3rem;
     color: var(--primary-color);
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     text-align: center;
     font-weight: 700;
 }
 
 .about-content {
     max-width: 900px;
-    margin: 0 auto 60px;
+    margin: 0 auto 40px;
     text-align: center;
 }
 
@@ -222,7 +222,7 @@ header .tagline {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 30px;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 .benefit-card {
@@ -355,14 +355,14 @@ header .tagline {
 
 /* Contact Section */
 .contact {
-    padding: 80px 20px;
+    padding: 50px 20px;
     background: var(--bg-white);
 }
 
 .contact h2 {
     font-size: 2.3rem;
     color: var(--primary-color);
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     text-align: center;
     font-weight: 700;
 }
@@ -371,7 +371,7 @@ header .tagline {
     text-align: center;
     font-size: 1.15rem;
     color: var(--text-light);
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     max-width: 700px;
     margin-left: auto;
     margin-right: auto;
